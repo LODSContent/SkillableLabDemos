@@ -1,0 +1,4 @@
+invoice_id,vendor_id,invoice_number,invoice_date,invoice_total,payment_total,credit_total,terms_id,invoice_due_date,payment_date
+43,72,40318,2014-06-01,21842.00,21842.00,0.00,3,2014-07-01,2014-06-29
+44,95,111-92R-10094,2014-06-01,19.67,19.67,0.00,2,2014-06-21,2014-06-24
+45,122,989319-437,2014-06-01,2765.36,2765.36,0.00,3,2014-07-01,2014-06-28

@@ -1,0 +1,22 @@
+vendor_id,vendor_name,vendor_address1,vendor_address2,vendor_city,vendor_state,vendor_zip_code,vendor_phone,vendor_contact_last_name,vendor_contact_first_name,default_terms_id,default_account_number
+11,"Bill Marvin Electric Inc","4583 E Home",NULL,Fresno,CA,93703,"(559) 555-5106",Hostlery,Kaitlin,2,523
+14,"Expedata Inc","4420 N. First Street, Suite 108",NULL,Fresno,CA,93726,"(559) 555-9586",Quintin,Marvin,3,589
+18,"Fresno Photoengraving Company","1952 "H" Street","P.O. Box 1952",Fresno,CA,93718,"(559) 555-3005",Chaddick,Derek,3,403
+31,"Enterprise Communications Inc","1483 Chain Bridge Rd, Ste 202",NULL,Mclean,VA,22101,"(770) 555-9558",Lawrence,Eileen,2,536
+39,"Custom Printing Company","PO Box 7028",NULL,"St Louis",MO,63177,"(301) 555-1494",Myles,Harley,3,540
+44,"Courier Companies, Inc","PO Box 5317",NULL,Boston,MA,02206,"(508) 555-6351",Antavius,Troy,4,400
+45,"Naylor Publications Inc","PO Box 40513",NULL,Jacksonville,FL,32231,"(800) 555-6041",Gerald,Kristofer,3,572
+58,"Fresno Rack & Shelving Inc","4718 N Bendel Ave",NULL,Fresno,CA,93722,NULL,Baylee,Dakota,2,523
+74,"Leslie Company","PO Box 610",NULL,Olathe,KS,66061,"(800) 255-6210",Alondra,Zev,3,570
+76,"Simon Direct Inc","4 Cornwall Dr Ste 102",NULL,"East Brunswick",NJ,08816,"(908) 555-7222",Bradlee,Daniel,2,540
+80,"Cardinal Business Media, Inc.","P O Box 7247-7844",NULL,Philadelphia,PA,19170,"(215) 555-1500",Eulalia,Kelsey,2,540
+81,"Wang Laboratories, Inc.","P.O. Box 21209",NULL,Pasadena,CA,91185,"(800) 555-0344",Kapil,Robert,2,160
+84,"Boucher Communications Inc","1300 Virginia Dr. Ste 400",NULL,"Fort Washington",PA,19034,"(215) 555-8000",Carson,Julian,3,540
+85,"Champion Printing Company","3250 Spring Grove Ave",NULL,Cincinnati,OH,45225,"(800) 555-1957",Clifford,Jillian,3,540
+89,"Evans Executone Inc","4918 Taylor Ct",NULL,Turlock,CA,95380,NULL,Royce,Hannah,1,522
+99,"Bertelsmann Industry Svcs. Inc","28210 N Avenue Stanford",NULL,Valencia,CA,91355,"(805) 555-0584",Potter,Lance,3,400
+100,"Cahners Publishing Company","Citibank Lock Box 4026","8725 W Sahara Zone 1127","The Lake",NV,89163,"(301) 555-2162",Jacobsen,Samuel,4,540
+106,"Ford Motor Credit Company","Dept 0419",NULL,"Los Angeles",CA,90084,"(800) 555-7000",Snyder,Karen,3,582
+110,"Malloy Lithographing Inc","5411 Jackson Road","PO Box 1124","Ann Arbor",MI,48106,"(313) 555-6113",Regging,Abe,3,400
+115,"Roadway Package System, Inc","Dept La 21095",NULL,Pasadena,CA,91185,NULL,Smith,Sam,4,553
+119,"Yesmed, Inc","PO Box 2061",NULL,Fresno,CA,93718,"(559) 555-0600",Hernandez,Reba,2,589

@@ -1,0 +1,26 @@
+vendor_id,vendor_name,vendor_address1,vendor_address2,vendor_city,vendor_state,vendor_zip_code,vendor_phone,vendor_contact_last_name,vendor_contact_first_name,default_terms_id,default_account_number
+3,"Register of Copyrights","Library Of Congress",NULL,Washington,DC,20559,NULL,Liana,Lukas,3,403
+7,"Towne Advertiser's Mailing Svcs","Kevin Minder","3441 W Macarthur Blvd","Santa Ana",CA,92704,NULL,Maegen,Ted,3,540
+13,"Golden Eagle Insurance Co","PO Box 85826",NULL,"San Diego",CA,92186,NULL,Blanca,Korah,3,590
+15,"ASC Signs","1528 N Sierra Vista",NULL,Fresno,CA,93703,NULL,Darien,Elisabeth,1,546
+16,"Internal Revenue Service",NULL,NULL,Fresno,CA,93888,NULL,Aileen,Joan,1,235
+24,"Zee Medical Service Co","4221 W Sierra Madre #104",NULL,Washington,IA,52353,NULL,Hallie,Juliana,3,570
+26,"Small Press","121 E Front St - 4th Floor",NULL,"Traverse City",MI,49684,NULL,Colette,Dusty,3,540
+30,Costco,"Fresno Warehouse","4500 W Shaw",Fresno,CA,93711,NULL,Jaquan,Aaron,3,570
+33,Nielson,"Ohio Valley Litho Division","Location #0470",Cincinnati,OH,45264,NULL,Brooklynn,Keely,2,541
+40,"Nat Assoc of College Stores","500 East Lorain Street",NULL,Oberlin,OH,44074,NULL,Bernard,Lucy,3,572
+58,"Fresno Rack & Shelving Inc","4718 N Bendel Ave",NULL,Fresno,CA,93722,NULL,Baylee,Dakota,2,523
+60,"The Mailers Guide Co","PO Box 1550",NULL,"New Rochelle",NY,10802,NULL,Lacy,Karina,3,540
+64,Texaco,"PO Box 6070",NULL,Inglewood,CA,90312,NULL,Oren,Grace,3,582
+65,"The Drawing Board","PO Box 4758",NULL,"Carol Stream",IL,60197,NULL,Mckayla,Jeffery,2,551
+66,"Ascom Hasler Mailing Systems","PO Box 895",NULL,Shelton,CT,06484,NULL,Lewis,Darnell,3,532
+67,"Bill Jones","Secretary Of State","PO Box 944230",Sacramento,CA,94244,NULL,Deasia,Tristin,3,589
+83,Ingram,"PO Box 845361",NULL,Dallas,TX,75284,NULL,Yobani,Trey,2,541
+87,"DMV Renewal","PO Box 942894",NULL,Sacramento,CA,94294,NULL,Josey,Lorena,4,568
+89,"Evans Executone Inc","4918 Taylor Ct",NULL,Turlock,CA,95380,NULL,Royce,Hannah,1,522
+93,AT&T,"PO Box 78225",NULL,Phoenix,AZ,85062,NULL,Wesley,Alisha,3,522
+104,"Digital Dreamworks","5070 N Sixth Ste. 71",NULL,Fresno,CA,93711,NULL,Elmert,Ron,3,589
+107,"Franchise Tax Board","PO Box 942857",NULL,Sacramento,CA,94257,NULL,Prado,Anita,4,507
+111,"Net Asset, Llc","1315 Van Ness Ave Ste. 103",NULL,Fresno,CA,93721,NULL,Kraggin,Laura,1,572
+115,"Roadway Package System, Inc","Dept La 21095",NULL,Pasadena,CA,91185,NULL,Smith,Sam,4,553
+120,Dataforms/West,"1617 W. Shaw Avenue","Suite F",Fresno,CA,93711,NULL,Church,Charlie,3,551
